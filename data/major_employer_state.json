@@ -1,0 +1,50 @@
+{
+  "last_checked": "2026-05-20",
+  "employers": {
+    "Nike": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Intel": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Adidas": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Columbia Sportswear": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Precision Castparts": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Oregon Health Sci.": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "FLIR": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Pacificorp": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    },
+    "Daimler Trucks": {
+      "count": 0,
+      "first_seen": null,
+      "checked": "2026-05-20"
+    }
+  }
+}

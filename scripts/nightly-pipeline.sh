@@ -8,7 +8,7 @@ SCRIPTS_DIR="$HOME/or-pay-hub/scripts"
 LOG_FILE="$SCRIPTS_DIR/pipeline.log"
 LOCK_FILE="$SCRIPTS_DIR/.nightly-pipeline.lock"
 
-log() { echo "[${$(date '+%Y-%m-%d %H:%M:%S')}] $*" | tee -a "$LOG_FILE"; }
+log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" | tee -a "$LOG_FILE"; }
 
 if [[ -f "$LOCK_FILE" ]]; then
   old_pid=$(cat "$LOCK_FILE" 2>/dev/null || true)

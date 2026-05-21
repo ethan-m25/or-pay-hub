@@ -1,0 +1,116 @@
+{
+  "generated": "2026-05-21",
+  "categories": {
+    "Other": {
+      "cat_median": 149586,
+      "n_jobs": 46,
+      "skills": [
+        {
+          "skill": "sales",
+          "median": 147500,
+          "n": 2,
+          "dev": -1.4
+        }
+      ]
+    },
+    "Engineering": {
+      "cat_median": 223092,
+      "n_jobs": 32,
+      "skills": [
+        {
+          "skill": "communication",
+          "median": 168591,
+          "n": 2,
+          "dev": -24.4
+        },
+        {
+          "skill": "problem_solving",
+          "median": 168591,
+          "n": 2,
+          "dev": -24.4
+        }
+      ]
+    },
+    "Management": {
+      "cat_median": 214250,
+      "n_jobs": 18,
+      "skills": [
+        {
+          "skill": "cross_functional_collaboration",
+          "median": 333750,
+          "n": 2,
+          "dev": 55.8
+        },
+        {
+          "skill": "strategic_planning",
+          "median": 269500,
+          "n": 2,
+          "dev": 25.8
+        },
+        {
+          "skill": "clinical strategy",
+          "median": 250100,
+          "n": 2,
+          "dev": 16.7
+        },
+        {
+          "skill": "behavioral health",
+          "median": 250100,
+          "n": 2,
+          "dev": 16.7
+        }
+      ]
+    },
+    "Product": {
+      "cat_median": 225500,
+      "n_jobs": 14,
+      "skills": [
+        {
+          "skill": "product_management",
+          "median": 225250,
+          "n": 2,
+          "dev": -0.1
+        },
+        {
+          "skill": "governance",
+          "median": 213250,
+          "n": 2,
+          "dev": -5.4
+        },
+        {
+          "skill": "product management",
+          "median": 187250,
+          "n": 2,
+          "dev": -17.0
+        }
+      ]
+    },
+    "Operations": {
+      "cat_median": 155800,
+      "n_jobs": 7,
+      "skills": [
+        {
+          "skill": "cross_functional_collaboration",
+          "median": 148625,
+          "n": 2,
+          "dev": -4.6
+        }
+      ]
+    },
+    "Data & Analytics": {
+      "cat_median": 123000,
+      "n_jobs": 9,
+      "skills": []
+    },
+    "Design": {
+      "cat_median": 158000,
+      "n_jobs": 3,
+      "skills": []
+    },
+    "Finance": {
+      "cat_median": 144912,
+      "n_jobs": 2,
+      "skills": []
+    }
+  }
+}

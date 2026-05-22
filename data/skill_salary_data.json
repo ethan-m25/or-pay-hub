@@ -1,15 +1,33 @@
 {
-  "generated": "2026-05-21",
+  "generated": "2026-05-22",
   "categories": {
     "Other": {
-      "cat_median": 149586,
-      "n_jobs": 46,
+      "cat_median": 149172,
+      "n_jobs": 47,
       "skills": [
         {
-          "skill": "sales",
-          "median": 147500,
+          "skill": "compliance",
+          "median": 229600,
+          "n": 3,
+          "dev": 53.9
+        },
+        {
+          "skill": "legal",
+          "median": 229600,
+          "n": 3,
+          "dev": 53.9
+        },
+        {
+          "skill": "healthcare",
+          "median": 182300,
+          "n": 4,
+          "dev": 22.2
+        },
+        {
+          "skill": "automation",
+          "median": 144800,
           "n": 2,
-          "dev": -1.4
+          "dev": -2.9
         }
       ]
     },
@@ -18,10 +36,46 @@
       "n_jobs": 32,
       "skills": [
         {
-          "skill": "communication",
-          "median": 168591,
+          "skill": "leadership",
+          "median": 316250,
           "n": 2,
-          "dev": -24.4
+          "dev": 41.8
+        },
+        {
+          "skill": "distributed_systems",
+          "median": 316250,
+          "n": 2,
+          "dev": 41.8
+        },
+        {
+          "skill": "nodejs",
+          "median": 296500,
+          "n": 2,
+          "dev": 32.9
+        },
+        {
+          "skill": "typescript",
+          "median": 296500,
+          "n": 2,
+          "dev": 32.9
+        },
+        {
+          "skill": "system_design",
+          "median": 283000,
+          "n": 2,
+          "dev": 26.9
+        },
+        {
+          "skill": "security",
+          "median": 280750,
+          "n": 2,
+          "dev": 25.8
+        },
+        {
+          "skill": "python",
+          "median": 251841,
+          "n": 2,
+          "dev": 12.9
         },
         {
           "skill": "problem_solving",
@@ -36,40 +90,81 @@
       "n_jobs": 18,
       "skills": [
         {
-          "skill": "cross_functional_collaboration",
-          "median": 333750,
+          "skill": "leadership",
+          "median": 303250,
           "n": 2,
-          "dev": 55.8
+          "dev": 41.5
         },
         {
-          "skill": "strategic_planning",
-          "median": 269500,
+          "skill": "security",
+          "median": 303250,
           "n": 2,
-          "dev": 25.8
-        },
-        {
-          "skill": "clinical strategy",
-          "median": 250100,
-          "n": 2,
-          "dev": 16.7
+          "dev": 41.5
         },
         {
           "skill": "behavioral health",
           "median": 250100,
           "n": 2,
           "dev": 16.7
+        },
+        {
+          "skill": "strategy",
+          "median": 207750,
+          "n": 2,
+          "dev": -3.0
         }
       ]
     },
+    "Security": {
+      "cat_median": 443000,
+      "n_jobs": 1,
+      "skills": []
+    },
     "Product": {
       "cat_median": 225500,
-      "n_jobs": 14,
+      "n_jobs": 15,
       "skills": [
         {
-          "skill": "product_management",
-          "median": 225250,
+          "skill": "customer_discovery",
+          "median": 257000,
           "n": 2,
-          "dev": -0.1
+          "dev": 14.0
+        },
+        {
+          "skill": "ai_centric",
+          "median": 257000,
+          "n": 2,
+          "dev": 14.0
+        },
+        {
+          "skill": "design_system",
+          "median": 257000,
+          "n": 2,
+          "dev": 14.0
+        },
+        {
+          "skill": "strategic_project_leads",
+          "median": 257000,
+          "n": 2,
+          "dev": 14.0
+        },
+        {
+          "skill": "customer_insights",
+          "median": 257000,
+          "n": 2,
+          "dev": 14.0
+        },
+        {
+          "skill": "design_strategy",
+          "median": 257000,
+          "n": 2,
+          "dev": 14.0
+        },
+        {
+          "skill": "security",
+          "median": 240500,
+          "n": 3,
+          "dev": 6.7
         },
         {
           "skill": "governance",
@@ -90,16 +185,34 @@
       "n_jobs": 7,
       "skills": [
         {
-          "skill": "cross_functional_collaboration",
+          "skill": "data_analysis",
           "median": 148625,
           "n": 2,
           "dev": -4.6
+        },
+        {
+          "skill": "automation",
+          "median": 147790,
+          "n": 2,
+          "dev": -5.1
         }
       ]
     },
     "Data & Analytics": {
       "cat_median": 123000,
       "n_jobs": 9,
+      "skills": [
+        {
+          "skill": "sql",
+          "median": 140500,
+          "n": 2,
+          "dev": 14.2
+        }
+      ]
+    },
+    "People & HR": {
+      "cat_median": 166000,
+      "n_jobs": 4,
       "skills": []
     },
     "Design": {

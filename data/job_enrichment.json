@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-21T09:41:33.523892+00:00",
-    "total_jobs": 141,
-    "enriched": 29
+    "built_at": "2026-05-22T09:36:10.245832+00:00",
+    "total_jobs": 143,
+    "enriched": 56
   },
   "jobs": {
     "sr--account-executiv-smarsh-84608340": {
@@ -24,6 +24,61 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "sr--ux-researcher-smarsh-84608340": {
+      "summary": "Senior UX Researcher generates and evaluates user insights to shape product direction while contributing to design system with light front-end skills.",
+      "key_skills": [
+        "ux research",
+        "user interviews",
+        "contextual inquiry",
+        "diary studies",
+        "ethnographic observation",
+        "usability studies",
+        "concept testing",
+        "prototype reviews",
+        "survey-based validation",
+        "research synthesis",
+        "journey mapping",
+        "mental model diagrams",
+        "opportunity frameworks",
+        "figma",
+        "html",
+        "css",
+        "javascript"
+      ],
+      "core_skills": [
+        "ux research",
+        "user interviews",
+        "contextual inquiry",
+        "diary studies"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "partner-consultant-ramp-84608340": {
+      "summary": "Partner Consultant who collaborates with channel partners to provide technical accounting expertise, build integrations, and advise on financial workflows for Ramp's customers",
+      "key_skills": [
+        "api_architecting",
+        "solutions_architecture",
+        "partner_consulting",
+        "channel_sales",
+        "solutions_engineering",
+        "technical_specification",
+        "finance_systems",
+        "erp_integration"
+      ],
+      "core_skills": [
+        "api_architecting",
+        "solutions_architecture",
+        "partner_consulting",
+        "channel_sales"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "procurement-architec-ramp-84608340": {
       "summary": "Solutions Architect, Procurement (Pre-Sales, Enterprise) leads technical discovery and solution design for procurement workflows, ensuring seamless handoff to onboarding for enterprise clients.",
@@ -71,6 +126,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "cpq-lead--business-s-vanta-84608340": {
+      "summary": "The CPQ Lead owns the vision, strategy, and execution of Vanta's Configure, Price, Quote ecosystem to ensure quoting, pricing, and contracting workflows scale with the business while remaining accurate, efficient, and user-friendly.",
+      "key_skills": [
+        "cpq",
+        "salesforce",
+        "pricing",
+        "quote",
+        "approval",
+        "workflow",
+        "automation",
+        "governance"
+      ],
+      "core_skills": [
+        "salesforce",
+        "cpq",
+        "pricing",
+        "approval"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "director--account-ma-vanta-84608340": {
       "summary": "Directs upmarket account management strategy and team to drive customer retention and expansion in commercial and enterprise segments through GRC program implementation.",
       "key_skills": [
@@ -88,6 +166,27 @@
         "strategic_planning",
         "team_building",
         "cross_functional_collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director--deal-desk-vanta-84608340": {
+      "summary": "Directs global deal desk strategy and execution to drive sales velocity while ensuring commercial integrity across complex international deals.",
+      "key_skills": [
+        "security",
+        "sales",
+        "strategy",
+        "deal_desk",
+        "compliance",
+        "ai"
+      ],
+      "core_skills": [
+        "leadership",
+        "stakeholder_management",
+        "process_optimization",
+        "strategic_thinking"
       ],
       "seniority_signal": "senior",
       "role_type": "executive",
@@ -140,6 +239,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "field-chief-informat-vanta-84608340": {
+      "summary": "Field CISO acts as a strategic security advisor to customers and prospects, driving enterprise security engagement through customer-facing conversations, strategic insights, and cross-functional collaboration.",
+      "key_skills": [
+        "cybersecurity",
+        "compliance",
+        "cloud-security",
+        "risk-management",
+        "threat-intelligence",
+        "incident-response",
+        "security-architecture",
+        "identity-management"
+      ],
+      "core_skills": [
+        "strategic-advisory",
+        "customer-engagement",
+        "executive-briefing",
+        "cross-functional-collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "group-product-manage-vanta-84608340": {
       "summary": "Owns product strategy and outcomes across product groups to drive customer retention, expansion, and competitive differentiation while leading and developing product teams.",
       "key_skills": [
@@ -163,6 +285,29 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "lead-technical-recru-vanta-84608340": {
+      "summary": "Owns full-cycle engineering hiring globally, partners with senior engineering and executive leaders to shape hiring strategy and close top-tier technical talent in competitive markets.",
+      "key_skills": [
+        "technical recruiting",
+        "hiring strategy",
+        "talent brand",
+        "candidate assessment",
+        "data analysis",
+        "strategic influence",
+        "stakeholder partnership",
+        "full-cycle recruiting"
+      ],
+      "core_skills": [
+        "technical recruiting",
+        "hiring strategy",
+        "talent brand",
+        "candidate assessment"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "people-operations-sp-vanta-84608340": {
       "summary": "People Operations Specialist ensures data integrity, streamlines workflows through automation, and partners cross-functionally to improve internal processes and employee experience.",
       "key_skills": [
@@ -182,6 +327,29 @@
         "workflow_optimization"
       ],
       "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "principal-software-e-vanta-84608340": {
+      "summary": "Principal Software Engineer at Vanta identifies and solves complex engineering problems, sets technical direction for the engineering team, and designs new product functionality using modern frameworks like TypeScript, React, Node.js, and Terraform.",
+      "key_skills": [
+        "typescript",
+        "react",
+        "nodejs",
+        "terraform",
+        "ai",
+        "governance",
+        "risk",
+        "compliance"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "cross-functional collaboration",
+        "architectural design",
+        "mentorship"
+      ],
+      "seniority_signal": "principal",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -232,6 +400,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "salesforce-quality-e-vanta-84608340": {
+      "summary": "Builds and owns the Business Systems Quality Assurance program for Vanta's internal GTM and Finance systems, ensuring revenue-critical workflows are protected through end-to-end quality gates, automation frameworks, and observability infrastructure.",
+      "key_skills": [
+        "salesforce",
+        "quality assurance",
+        "automation",
+        "testing",
+        "apex",
+        "ui regression",
+        "integration testing",
+        "observability"
+      ],
+      "core_skills": [
+        "salesforce",
+        "quality assurance",
+        "automation",
+        "testing"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-accountant-vanta-84608340": {
       "summary": "Senior Accountant focuses on payroll accounting, reconciliations, and flux analysis while partnering with HR and Payroll to ensure accurate financial reporting.",
       "key_skills": [
@@ -249,6 +440,75 @@
         "attention to detail",
         "research and resolution",
         "cross-functional partnership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-account-execu-vanta-84608340": {
+      "summary": "Account Executive focuses on identifying high-potential business verticals, turning inbound demand into closed new business, managing sales pipeline, defining customer-specific benefits, and collecting insights for product development.",
+      "key_skills": [
+        "sales",
+        "customer",
+        "outbound",
+        "pipeline",
+        "compliance",
+        "security",
+        "smb",
+        "midmarket"
+      ],
+      "core_skills": [
+        "sales",
+        "customer",
+        "outbound",
+        "pipeline"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-analyst--gtm--vanta-84608340": {
+      "summary": "Senior Analyst, GTM Analytics at Vanta partners with Sales, Overlay teams, and RevOps to analyze GTM performance, build scalable reporting, and improve revenue outcomes through data-driven insights.",
+      "key_skills": [
+        "sql",
+        "data_analysis",
+        "bi_tools",
+        "forecasting",
+        "propensity_modeling",
+        "sales_engineering",
+        "revenue_operations",
+        "gtm_analytics"
+      ],
+      "core_skills": [
+        "sql",
+        "bi_tools",
+        "forecasting",
+        "propensity_modeling"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-copywriter-vanta-84608340": {
+      "summary": "Senior Copywriter at Vanta writes across channels including campaigns, web, paid ads, email, and video to craft clear, compelling brand voice content while collaborating with cross-functional teams to scale and safeguard the company's messaging.",
+      "key_skills": [
+        "copywriting",
+        "storytelling",
+        "strategy",
+        "content creation",
+        "brand voice",
+        "creative writing",
+        "paid ads",
+        "email marketing"
+      ],
+      "core_skills": [
+        "strategic thinking",
+        "proactive problem-solving",
+        "ownership",
+        "collaboration"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -317,6 +577,73 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "senior-manager--enab-vanta-84608340": {
+      "summary": "Owns strategy and execution of go-to-market programs to drive revenue growth and scale effectively across Vanta's GTM organization.",
+      "key_skills": [
+        "revenue enablement",
+        "gtm programs",
+        "sales training",
+        "product enablement",
+        "partner enablement",
+        "instructional design",
+        "onboarding",
+        "continuous learning"
+      ],
+      "core_skills": [
+        "cross-functional collaboration",
+        "data-driven mindset",
+        "program strategy",
+        "team leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--peop-vanta-84608340": {
+      "summary": "Owns the configuration, optimization, and governance of Vanta's People tech stack, designing and maintaining systems architecture for HR technology ecosystem to improve efficiency and enable data-driven decision-making.",
+      "key_skills": [
+        "hris",
+        "system_integration",
+        "i_paaS",
+        "agentic_ai",
+        "data_modeling",
+        "hr_systems_architecture",
+        "automation",
+        "stakeholder_management"
+      ],
+      "core_skills": [
+        "hris",
+        "system_integration",
+        "i_paaS",
+        "agentic_ai"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-marketing-ana-vanta-84608340": {
+      "summary": "Senior Marketing Analyst builds scalable reporting capabilities for marketing teams, transforms complex marketing data into actionable insights, and enables data-driven decision-making to improve marketing ROI.",
+      "key_skills": [
+        "sql",
+        "salesforce",
+        "marketing_automation",
+        "tableau",
+        "dbt",
+        "python",
+        "r"
+      ],
+      "core_skills": [
+        "analytical_mindset",
+        "action_oriented",
+        "communication_skills"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-procurement-a-vanta-84608340": {
       "summary": "Senior Procurement Analyst partners with internal teams to guide purchasing decisions, lead vendor negotiations, and optimize procurement processes while ensuring cost efficiency and strong vendor relationships.",
       "key_skills": [
@@ -363,6 +690,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-systems-engin-vanta-84608341": {
+      "summary": "Builds and scales systems, workflows, and automations for employee experience at Vanta, partnering with Security and IT Operations to design secure and scalable corporate solutions.",
+      "key_skills": [
+        "systems engineering",
+        "ai-driven workflows",
+        "automation",
+        "saaS platforms",
+        "identity management",
+        "scim",
+        "okta",
+        "slack"
+      ],
+      "core_skills": [
+        "systems engineering",
+        "ai-driven workflows",
+        "automation",
+        "saaS platforms"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-web-designer--vanta-84608341": {
       "summary": "Senior Web Designer at Vanta creates editorial-quality digital experiences that communicate brand, product, and vision through responsive web design, data visualization, and visual storytelling.",
       "key_skills": [
@@ -386,6 +736,52 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "staff-engineer--prod-vanta-84608341": {
+      "summary": "Staff Engineer leads large-scale, multi-team initiatives from end to end, defining technical direction and architecture while collaborating with leadership across Engineering, Product, and Design to deliver complex features.",
+      "key_skills": [
+        "python",
+        "javascript",
+        "java",
+        "go",
+        "rust",
+        "c",
+        "c++",
+        "typescript"
+      ],
+      "core_skills": [
+        "system_design",
+        "architecture",
+        "leadership",
+        "collaboration"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-product-design-vanta-84608341": {
+      "summary": "Staff Product Designer at Vanta leads strategic projects to define AI-centric workflow builder experiences, partners cross-functionally to align on vision, and mentors designers while enhancing design systems for enterprise compliance solutions.",
+      "key_skills": [
+        "product_design",
+        "ai_centric",
+        "workflow_builder",
+        "compliance",
+        "b2b_saaS",
+        "customer_discovery",
+        "design_system",
+        "mentorship"
+      ],
+      "core_skills": [
+        "strategic_project_leads",
+        "customer_insights",
+        "design_strategy",
+        "systemic_thinking"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "staff-product-manage-vanta-84608341": {
       "summary": "Owns the IAM product vision and roadmap for authentication, authorization, and identity modeling across diverse customer bases from startups to federal agencies.",
       "key_skills": [
@@ -403,6 +799,29 @@
         "cross_functional_collaboration",
         "storytelling",
         "customer_empathy"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-software-engin-vanta-84608341": {
+      "summary": "Drives technical strategy across infrastructure and security systems, abstractions, and paved roads for engineering teams to build and ship products with velocity and confidence.",
+      "key_skills": [
+        "aws",
+        "containerization",
+        "distributed_systems",
+        "cloud_infrastructure",
+        "security_hardening",
+        "mongodb",
+        "event_driven_architecture",
+        "typescript"
+      ],
+      "core_skills": [
+        "technical_leadership",
+        "system_design",
+        "platform_engineering",
+        "cloud_infrastructure"
       ],
       "seniority_signal": "staff",
       "role_type": "ic",
@@ -521,6 +940,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "director--business-o-headway-84608341": {
+      "summary": "The Director, Business Operations for the Patient Group drives operational excellence and strategic partnerships to connect patients with mental health care while scaling patient acquisition and ensuring high-impact outcomes.",
+      "key_skills": [
+        "business operations",
+        "strategic planning",
+        "product strategy",
+        "data analysis",
+        "cross-functional collaboration",
+        "operational excellence",
+        "growth strategy",
+        "strategic orchestration"
+      ],
+      "core_skills": [
+        "business operations",
+        "strategic planning",
+        "product strategy",
+        "data analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "manager--business-op-headway-84608341": {
       "summary": "Business Operations Manager leads cross-functional initiatives to design scalable systems and improve operational efficiency while driving measurable impact across high-growth mental healthcare technology company.",
       "key_skills": [
@@ -567,6 +1009,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "manager--revenue-acc-headway-84608341": {
+      "summary": "Owns operational execution of revenue accounting, leads senior revenue accountants, drives month-end close, and ensures compliance with ASC 606 while scaling processes through automation and cross-functional partnerships.",
+      "key_skills": [
+        "revenue accounting",
+        "asc 606",
+        "financial reporting",
+        "process automation",
+        "cross-functional collaboration",
+        "team leadership",
+        "audit readiness",
+        "ai implementation"
+      ],
+      "core_skills": [
+        "revenue accounting",
+        "asc 606",
+        "financial reporting",
+        "process automation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "medical-clinical-dir-headway-84608341": {
       "summary": "Supports health plan partnerships and payer strategy to expand provider network impact while collaborating with cross-functional teams to improve mental healthcare access.",
       "key_skills": [
@@ -590,6 +1055,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "program-manager--tal-headway-84608341": {
+      "summary": "Builds and manages AI adoption programs to enhance talent acquisition workflows and enable hiring teams to effectively use AI tools in their recruitment processes.",
+      "key_skills": [
+        "program management",
+        "talent acquisition",
+        "ai enablement",
+        "process optimization",
+        "talent strategy",
+        "hiring ecosystem",
+        "ai tools",
+        "talent operations"
+      ],
+      "core_skills": [
+        "program management",
+        "talent acquisition",
+        "ai enablement",
+        "process optimization"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "senior-counsel--comm-headway-84608341": {
       "summary": "Senior Counsel, Commercial negotiates innovative payer partnerships and builds systems for legal and payer teams to collaborate effectively",
       "key_skills": [
@@ -612,6 +1100,98 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "senior-counsel--labo-headway-84608341": {
+      "summary": "Serves as the primary legal advisor to the People team and business leaders on employment matters, builds L&E infrastructure, trains HRBPs and People managers, and represents the company in litigation and disputes.",
+      "key_skills": [
+        "labor",
+        "employment",
+        "legal",
+        "counsel",
+        "in-house",
+        "advice",
+        "compliance",
+        "wage"
+      ],
+      "core_skills": [
+        "legal",
+        "advice",
+        "compliance",
+        "wage"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-counsel--regu-headway-84608341": {
+      "summary": "Serves as a strategic regulatory partner to Clinical and Operations teams, providing real-time guidance on healthcare regulations and translating complex legal requirements into actionable practices for product development and compliance.",
+      "key_skills": [
+        "healthcare",
+        "regulatory",
+        "legal",
+        "compliance",
+        "telehealth",
+        "behavioral_health",
+        "clinical_practice",
+        "cpom"
+      ],
+      "core_skills": [
+        "healthcare_regulations",
+        "legal_advisory",
+        "regulatory_compliance",
+        "cross_functional_partnership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-operations-as-headway-84608341": {
+      "summary": "Senior Operations Associate responsible for operationalizing and scaling core workflows to deliver real-world impact to patients and providers through data-driven automation and cross-functional collaboration.",
+      "key_skills": [
+        "operations",
+        "processes",
+        "automation",
+        "data-driven",
+        "consulting",
+        "systems_thinking",
+        "cross-functional",
+        "collaboration"
+      ],
+      "core_skills": [
+        "data-driven",
+        "systems_thinking",
+        "automation",
+        "cross-functional"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-partner-succe-headway-84608341": {
+      "summary": "Supports care partners and clinicians by building relationships, creating engagement strategies, and leveraging data to grow partnerships in mental healthcare.",
+      "key_skills": [
+        "healthcare",
+        "customer_success",
+        "strategic_partnerships",
+        "relationship_building",
+        "data_analysis",
+        "health_systems",
+        "clinical_operations",
+        "mental_health"
+      ],
+      "core_skills": [
+        "healthcare",
+        "customer_success",
+        "strategic_partnerships",
+        "relationship_building"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "strategic-finance-le-headway-84608341": {
       "summary": "Builds and maintains financial models to assess GTM investment efficiency, tracks performance, and surfaces insights for strategic resource allocation across Provider and Patient Growth initiatives.",
@@ -658,6 +1238,49 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "implementation-solut-callan-55775794": {
+      "summary": "Supports the Implementation Solutions Group by conducting trust/custody due diligence searches, performing service and fee benchmarking studies, providing transition management support, and researching digital assets.",
+      "key_skills": [
+        "trust/custody due diligence",
+        "fee benchmarking",
+        "service benchmarking",
+        "transition management",
+        "digital assets research"
+      ],
+      "core_skills": [
+        "project management",
+        "client engagement",
+        "quantitative analysis",
+        "qualitative analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "quality-assurance-le-headway-42150711": {
+      "summary": "Owns end-to-end QA program areas like calibration, AI analytics, and partner quality oversight to drive continuous improvements in customer experience through data-driven insights and automation.",
+      "key_skills": [
+        "quality assurance",
+        "ai-powered analytics",
+        "conversation intelligence",
+        "cx operations",
+        "data analysis",
+        "process optimization",
+        "ai tools",
+        "automation"
+      ],
+      "core_skills": [
+        "ai tools",
+        "data analysis",
+        "process optimization",
+        "cx operations"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "lead",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     }
   }
 }

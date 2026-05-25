@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-24T09:32:19.198832+00:00",
+    "built_at": "2026-05-25T09:26:53.716664+00:00",
     "total_jobs": 150,
-    "enriched": 105
+    "enriched": 107
   },
   "jobs": {
     "account-executive-ii-smarsh-84608340": {
@@ -22,6 +22,29 @@
         "daily_operations"
       ],
       "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "account-executive--s-smarsh-84608340": {
+      "summary": "This candidate will actively engage with prospective new clients via phone and web conference to introduce Smarsh products and value proposition.",
+      "key_skills": [
+        "sales",
+        "prospecting",
+        "government",
+        "sled",
+        "compliance",
+        "regulations",
+        "sales_cycle",
+        "customer_service"
+      ],
+      "core_skills": [
+        "sales",
+        "prospecting",
+        "government",
+        "sled"
+      ],
+      "seniority_signal": "mid",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
@@ -1201,6 +1224,29 @@
         "product capabilities"
       ],
       "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-data-engineer-vanta-84608341": {
+      "summary": "Designs and implements complex data models, builds reporting tools, and develops scalable data infrastructure to support data-driven decision-making across the company.",
+      "key_skills": [
+        "data engineering",
+        "sql",
+        "data modeling",
+        "data infrastructure",
+        "data warehousing",
+        "aws",
+        "terraform",
+        "cdc"
+      ],
+      "core_skills": [
+        "data engineering",
+        "sql",
+        "data modeling",
+        "data infrastructure"
+      ],
+      "seniority_signal": "staff",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"

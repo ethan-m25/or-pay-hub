@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-26T09:26:50.315239+00:00",
-    "total_jobs": 150,
-    "enriched": 107
+    "built_at": "2026-05-27T09:25:49.010794+00:00",
+    "total_jobs": 153,
+    "enriched": 110
   },
   "jobs": {
     "account-executive-ii-smarsh-84608340": {
@@ -2434,6 +2434,73 @@
       ],
       "seniority_signal": "associate_principal",
       "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "financial-analyst-smarsh-16456383": {
+      "summary": "Financial Analyst drives value through financial planning and analysis, budgeting, forecasting, variance analysis, and reporting to support strategic decision-making and leadership.",
+      "key_skills": [
+        "financial analysis",
+        "budgeting",
+        "forecasting",
+        "variance analysis",
+        "reporting",
+        "data extraction",
+        "sql",
+        "power bi"
+      ],
+      "core_skills": [
+        "excel",
+        "financial modeling"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "practice-transformat-aledade-73858534": {
+      "summary": "Practice Transformation Specialist implements ACO initiatives, trains staff and providers, and ensures practices meet goals through wellness visits, transitions of care, and active management.",
+      "key_skills": [
+        "population health",
+        "practice transformation",
+        "across performance metrics",
+        "wellness visits",
+        "transitions of care",
+        "active management",
+        "ehealth records",
+        "electronic health records"
+      ],
+      "core_skills": [
+        "project management",
+        "process mapping",
+        "work-flow analysis",
+        "communication"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "staff-ai-researcher-aledade-73858534": {
+      "summary": "Staff AI Researcher develops advanced AI solutions to improve health outcomes by empowering primary care physicians with technology that prevents unnecessary hospitalizations, collaborating with engineering and analytics teams to integrate AI into products and workflows.",
+      "key_skills": [
+        "ai",
+        "machine_learning",
+        "deep_learning",
+        "large_language_models",
+        "python",
+        "data_analysis",
+        "statistical_analysis",
+        "distributed_systems"
+      ],
+      "core_skills": [
+        "deep_learning",
+        "large_language_models",
+        "python",
+        "data_analysis"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
     }

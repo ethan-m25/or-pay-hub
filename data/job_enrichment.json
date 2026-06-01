@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-31T12:36:13.808493+00:00",
-    "total_jobs": 526,
-    "enriched": 419
+    "built_at": "2026-06-01T10:23:10.852974+00:00",
+    "total_jobs": 514,
+    "enriched": 408
   },
   "jobs": {
     "account-executive-ii-smarsh-84608340": {
@@ -169,29 +169,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
-    },
-    "software-engineer----modern-treasury-84608340": {
-      "summary": "Designs, deploys, and operates high-scale payment infrastructure using AWS, container orchestration, and automation to support multi-rail money movement and real-time payment systems.",
-      "key_skills": [
-        "aws",
-        "infrastructure",
-        "containerization",
-        "ci_cd",
-        "infrastructure_as_code",
-        "distributed_systems",
-        "observability",
-        "performance_tuning"
-      ],
-      "core_skills": [
-        "aws",
-        "infrastructure",
-        "containerization",
-        "ci_cd"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
     },
     "backend-senior-softw-vanta-84608340": {
       "summary": "Senior Software Engineer leads and mentors engineers, delivering high-value products for customers and infrastructure to scale security monitoring capabilities.",
@@ -4801,29 +4778,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "head-of-customer-ai--asana-63967925": {
-      "summary": "Operational leader for Asana’s AI Transformation Factory, evolving post-sales organization into an AI-activation model by redesigning customer success, renewal, and services teams to drive AI product adoption and revenue growth.",
-      "key_skills": [
-        "ai",
-        "customer",
-        "transformation",
-        "product",
-        "engineering",
-        "revenue",
-        "customer_success",
-        "renewal"
-      ],
-      "core_skills": [
-        "strategic",
-        "operational",
-        "cross_functional",
-        "leadership"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
     "renewal-manager-asana-63967925": {
       "summary": "Manages human-agent workflows using Asana AI to streamline project management and automation tasks",
       "key_skills": [
@@ -4868,48 +4822,6 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "onsite"
-    },
-    "logistics-manager-carvana-63967925": {
-      "summary": "Manages and optimizes Vehicle Transport operations while solving complex obstacles to ensure Carvana's used car purchase process promise.",
-      "key_skills": [
-        "logistics",
-        "problem-solving",
-        "operations",
-        "optimization",
-        "strategic",
-        "executive"
-      ],
-      "core_skills": [
-        "logistics",
-        "problem-solving"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "logistics-manager--3-carvana-63967925": {
-      "summary": "Oversees day-to-day transportation operations, develops site-specific goals, reviews route schedules, ensures safety compliance, and manages warehouse teams.",
-      "key_skills": [
-        "logistics",
-        "supply_chain",
-        "transportation",
-        "inventory_management",
-        "warehouse_operations",
-        "safety_compliance",
-        "route_scheduling",
-        "cdl_drivers"
-      ],
-      "core_skills": [
-        "logistics_management",
-        "people_leadership",
-        "safety_standards",
-        "route_planning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
     },
     "security-lead-carvana-63967925": {
       "summary": "Oversees day-to-day activities of assigned security team, ensures safety compliance, and manages incident response protocols.",
@@ -5553,72 +5465,6 @@
       ],
       "seniority_signal": "senior",
       "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "customer-support-ass-betterment-63967925": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "cx-automation-perfor-betterment-63967925": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "strategic-sales-mana-betterment-63967925": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
     },
@@ -6608,29 +6454,6 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
-    "director--energy-inn-crusoe-63967925": {
-      "summary": "The Director creates strategic advantage for Crus: scoping, vetting, and deploying new energy technologies to power AI infrastructure while driving commercialization and market impact.",
-      "key_skills": [
-        "energy",
-        "ai",
-        "infrastructure",
-        "computation",
-        "power",
-        "technology",
-        "scouting",
-        "vetering"
-      ],
-      "core_skills": [
-        "strategic",
-        "technical",
-        "commercial",
-        "leadership"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "electrical-field-eng-crusoe-63967925": {
       "summary": "Electrical Field Engineer supports on-site installation, testing, and commissioning of critical electrical infrastructure for data center projects, ensuring safety and compliance with engineering specifications.",
       "key_skills": [
@@ -6674,121 +6497,6 @@
       ],
       "seniority_signal": "mid",
       "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "global-supply-chain--crusoe-63967925": {
-      "summary": "Owns end-to-end global supply for Crusoe's compute fleet, managing NVIDIA and AMD accelerator allocation, OEM/ODM partnerships, and long-lead component constraints to ensure seamless deployment across multiple data centers.",
-      "key_skills": [
-        "global supply chain",
-        "compute infrastructure",
-        "gpu",
-        "nvidia",
-        "amd",
-        "accelerator allocation",
-        "oem partnerships",
-        "long-lead components"
-      ],
-      "core_skills": [
-        "supply chain strategy",
-        "capacity planning",
-        "risk management",
-        "cross-functional leadership"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "project-executive-crusoe-63967925": {
-      "summary": "Project Executive leads large-scale construction projects for hyperscale AI data centers, ensuring on-time, on-budget delivery with high quality standards.",
-      "key_skills": [
-        "construction",
-        "project",
-        "management",
-        "data_center",
-        "hyperscale",
-        "budgeting",
-        "scheduling",
-        "quality"
-      ],
-      "core_skills": [
-        "construction_management",
-        "project_leadership",
-        "budgeting",
-        "scheduling"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-manager--supp-crusoe-63967925": {
-      "summary": "Senior Manager responsible for optimizing global supply chain operations to ensure continuity, speed, and quality of AI infrastructure deployments while managing supplier relationships and mitigating risks.",
-      "key_skills": [
-        "supply chain management",
-        "supplier relationship management",
-        "process improvement",
-        "inventory control",
-        "risk management",
-        "capacity management",
-        "sustainability integration",
-        "cross-functional coordination"
-      ],
-      "core_skills": [
-        "strategic thinking",
-        "analytical prowess",
-        "problem-solving",
-        "stakeholder management"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "staff-commissioning--crusoe-63967925": {
-      "summary": "Serves as the primary point of accountability for commissioning activities across data center projects, ensuring electrical and EPMS systems meet design intent and operational readiness standards through full commissioning lifecycle management.",
-      "key_skills": [
-        "data center commissioning",
-        "electrical engineering",
-        "commissioning lifecycle",
-        "epms systems",
-        "factory witness testing",
-        "third-party commissioning agents",
-        "owner project requirements",
-        "commissioning documentation"
-      ],
-      "core_skills": [
-        "data center commissioning",
-        "electrical engineering",
-        "commissioning lifecycle",
-        "epms systems"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "staff-instrumentatio-crusoe-63967925": {
-      "summary": "Staff Instrumentation and Controls Engineer leads deployment and integration of BMS/EPMS and SCADA systems for hyperscale data centers, ensuring seamless operation of AI-optimized infrastructure.",
-      "key_skills": [
-        "bms",
-        "epms",
-        "scada",
-        "plc",
-        "hvac",
-        "electrical",
-        "protocol",
-        "mqtt"
-      ],
-      "core_skills": [
-        "deployment",
-        "integration",
-        "scada",
-        "plc"
-      ],
-      "seniority_signal": "staff",
-      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -9359,6 +9067,48 @@
       ],
       "seniority_signal": "entry",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "logistics-manager-carvana-08852507": {
+      "summary": "Manages and optimizes Vehicle Transport operations while solving complex obstacles to ensure Carvana's used car purchase process promise.",
+      "key_skills": [
+        "logistics",
+        "problem-solving",
+        "operations",
+        "optimization",
+        "strategic",
+        "executive"
+      ],
+      "core_skills": [
+        "logistics",
+        "problem-solving"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "logistics-manager--3-carvana-08852507": {
+      "summary": "Oversees day-to-day transportation operations, coordinates with site leaders, reviews route schedules, ensures safety standards, and manages warehouse inventory workflows.",
+      "key_skills": [
+        "logistics",
+        "supply_chain",
+        "transportation",
+        "inventory",
+        "warehouse",
+        "scheduling",
+        "route_planning",
+        "cdl"
+      ],
+      "core_skills": [
+        "leadership",
+        "safety_compliance",
+        "team_mentoring",
+        "performance_management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
     }

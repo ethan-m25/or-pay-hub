@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-01T10:23:10.852974+00:00",
-    "total_jobs": 514,
-    "enriched": 408
+    "built_at": "2026-06-03T12:17:29.092634+00:00",
+    "total_jobs": 628,
+    "enriched": 484
   },
   "jobs": {
     "account-executive-ii-smarsh-84608340": {
@@ -9070,7 +9070,225 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "logistics-manager-carvana-08852507": {
+    "vice-president--part-amplitude-82292070": {
+      "summary": "The VP of Partnerships leads a small team to design and drive technology partnership and ecosystem strategy that generates revenue without scaling the sales organization, focusing on big tech F100 partnerships and delivering differentiated value to customers.",
+      "key_skills": [
+        "ai",
+        "analytics",
+        "partnerships",
+        "revenue",
+        "strategy",
+        "growth",
+        "technology",
+        "ecosystem"
+      ],
+      "core_skills": [
+        "strategy",
+        "revenue",
+        "partnerships",
+        "growth"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "director--learning-affirm-82292070": {
+      "summary": "Leads the Learning team at Affirm, developing and executing learning strategies to enhance individual, team, and leadership capabilities while driving organizational performance and culture.",
+      "key_skills": [
+        "learning",
+        "strategy",
+        "design",
+        "development",
+        "data",
+        "metrics",
+        "leadership",
+        "change"
+      ],
+      "core_skills": [
+        "learning_strategy",
+        "data_driven_decision_making",
+        "cross_functional_collaboration",
+        "change_management"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "machine-learning-eng-affirm-82292070": {
+      "summary": "Builds and improves machine learning and AI systems to automate customer operations like disputes, returns, fraud, and chargebacks using structured evidence and business logic.",
+      "key_skills": [
+        "python",
+        "machine learning",
+        "ai",
+        "llm",
+        "structured data",
+        "tabular classification",
+        "model monitoring",
+        "ml lifecycle"
+      ],
+      "core_skills": [
+        "python",
+        "machine learning",
+        "ai",
+        "llm"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "manager--software-en-affirm-82292070": {
+      "summary": "Engineering Manager leads strategic initiatives within the card platform to build backend solutions for new card constructs and strategic partnerships, enabling Affirm's product to reach more customers and industries.",
+      "key_skills": [
+        "kotlin",
+        "python"
+      ],
+      "core_skills": [
+        "engineering",
+        "leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "director--gtm-operat-marqeta-82292070": {
+      "summary": "Directs GTM operations by establishing scalable processes, managing sales compensation, and driving AI-powered workflow automation to support business growth in embedded finance.",
+      "key_skills": [
+        "sales operations",
+        "revenue operations",
+        "gtm operations",
+        "ai transformation",
+        "process optimization",
+        "compensation design",
+        "sales tools",
+        "salesforce"
+      ],
+      "core_skills": [
+        "sales operations",
+        "revenue operations",
+        "gtm operations",
+        "ai transformation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director--sales-stra-marqeta-82292070": {
+      "summary": "Directs the strategy and operations of a best-in-class sales force, driving reporting and insights for the GTM sales organization while optimizing sales productivity through data and process improvements.",
+      "key_skills": [
+        "sales operations",
+        "gtm strategy",
+        "revenue operations",
+        "data analysis",
+        "process optimization",
+        "forecasting",
+        "pipeline management",
+        "sales productivity"
+      ],
+      "core_skills": [
+        "sales operations",
+        "gtm strategy",
+        "revenue operations",
+        "data analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-manager--solu-webflow-82292070": {
+      "summary": "Senior Manager leads a team of Solution Engineers to architect value-oriented solutions for customers, collaborate with sales and cross-functional teams to influence product direction, and ensure customer success through technical expertise and coaching.",
+      "key_skills": [
+        "solutions engineering",
+        "presales",
+        "customer success",
+        "ai-powered solutions",
+        "technical architecture",
+        "sales engineering",
+        "coaching",
+        "team leadership"
+      ],
+      "core_skills": [
+        "technical architecture",
+        "presales leadership",
+        "customer success",
+        "ai-powered solutions"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-salesforce-ad-webflow-82292070": {
+      "summary": "Owns day-to-day administration of Salesforce org, builds declarative automation, manages CPQ environment, and ensures system reliability through AI-enhanced workflows.",
+      "key_skills": [
+        "salesforce",
+        "cpq",
+        "ai",
+        "automation",
+        "sfdc",
+        "declarative",
+        "user management",
+        "permissions"
+      ],
+      "core_skills": [
+        "salesforce administration",
+        "cpq management",
+        "ai integration",
+        "system reliability"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "cx-enablement-partne-asana-82292070": {
+      "summary": "CX Enablement Partner (AI) leads high-impact cross-functional initiatives to empower Customer Experience teams in leveraging AI and emerging technologies for world-class customer value.",
+      "key_skills": [
+        "ai",
+        "cx",
+        "enablement",
+        "partner",
+        "strategic",
+        "action-oriented"
+      ],
+      "core_skills": [
+        "strategic",
+        "action-oriented"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "experienced-diesel-t-carvana-82292070": {
+      "summary": "Performs preventative maintenance, inspections, and component replacements on Class 8 trucks and trailers, utilizing diagnostic tools to troubleshoot engine, transmission, and aftertreatment system issues while ensuring DOT compliance.",
+      "key_skills": [
+        "diesel",
+        "trucks",
+        "trailer",
+        "diagnostics",
+        "engine",
+        "transmission",
+        "aftertreatment",
+        "emissions"
+      ],
+      "core_skills": [
+        "diesel",
+        "trucks",
+        "trailer",
+        "diagnostics"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "logistics-manager-carvana-82292070": {
       "summary": "Manages and optimizes Vehicle Transport operations while solving complex obstacles to ensure Carvana's used car purchase process promise.",
       "key_skills": [
         "logistics",
@@ -9089,7 +9307,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "logistics-manager--3-carvana-08852507": {
+    "logistics-manager--3-carvana-82292070": {
       "summary": "Oversees day-to-day transportation operations, coordinates with site leaders, reviews route schedules, ensures safety standards, and manages warehouse inventory workflows.",
       "key_skills": [
         "logistics",
@@ -9111,6 +9329,1501 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "commercial-account-e-grafanalabs-82292070": {
+      "summary": "Prospects and closes new business in the Eastern region, manages sales pipeline, and ensures customer satisfaction through technical product value articulation.",
+      "key_skills": [
+        "sales",
+        "prospecting",
+        "customer_relationships",
+        "sales_forecasting",
+        "sales_pipeline_management",
+        "salesforce",
+        "technical_sales",
+        "open_source"
+      ],
+      "core_skills": [
+        "sales",
+        "prospecting",
+        "customer_relationships",
+        "sales_forecasting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-enterprise-ac-grafanalabs-82292070": {
+      "summary": "Prospects and closes new business in the West region, manages sales pipeline, and ensures customer satisfaction through consultative sales approaches.",
+      "key_skills": [
+        "sales",
+        "prospecting",
+        "customer_success",
+        "sales_pipeline",
+        "salesforce",
+        "consultative_sales",
+        "open_source"
+      ],
+      "core_skills": [
+        "sales",
+        "prospecting",
+        "customer_success"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "cx-automation-perfor-betterment-82292070": {
+      "summary": "This person works on data analysis and machine learning models to improve financial products and services.",
+      "key_skills": [
+        "python",
+        "data_analysis",
+        "machine_learning",
+        "statistics",
+        "sql",
+        "data_science",
+        "big_data",
+        "cloud_computing"
+      ],
+      "core_skills": [
+        "data_analysis",
+        "machine_learning",
+        "statistics",
+        "sql"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-named-account-cloudflare-82292070": {
+      "summary": "Account Executive drives enterprise sales growth by leading complex customer engagements, managing multi-million dollar sales cycles, and orchestrating digital transformation strategies for large-scale clients.",
+      "key_skills": [
+        "sales",
+        "strategy",
+        "forecasting",
+        "pipeline",
+        "it_architecture",
+        "digital_transformation",
+        "customer_engagement",
+        "enterprise_sales"
+      ],
+      "core_skills": [
+        "sales",
+        "strategy",
+        "forecasting",
+        "it_architecture"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-solutions-eng-cloudflare-82292070": {
+      "summary": "Senior Solutions Engineer partners with sales teams to map customer challenges to Cloudflare solutions, deliver technical demos, and run proof-of-concept trials for enterprise clients.",
+      "key_skills": [
+        "solutions engineering",
+        "pre-sales",
+        "cdn",
+        "security",
+        "networking",
+        "saas"
+      ],
+      "core_skills": [
+        "customer engagement",
+        "technical presentations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "account-executive-4--twilio-82292070": {
+      "summary": "Account Executive leads prospecting, solution selling, and closing new business opportunities across Twilio's Messaging, Voice, and Email products for Financial Services clients.",
+      "key_skills": [
+        "sales",
+        "cpaas",
+        "messaging",
+        "voice",
+        "email",
+        "solutions"
+      ],
+      "core_skills": [
+        "sales",
+        "cpaas",
+        "messaging",
+        "voice"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "counsel--commercial-twilio-82292070": {
+      "summary": "Partners with enterprise sales to manage full life-cycle negotiation of complex enterprise sales deals and provide legal advice on contracts and compliance.",
+      "key_skills": [
+        "legal",
+        "negotiation",
+        "contracts",
+        "compliance",
+        "sales",
+        "enterprise"
+      ],
+      "core_skills": [
+        "contract_negotiation",
+        "legal_advice",
+        "compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "developer-educator---twilio-82292070": {
+      "summary": "Creates educational video content for developers using Twilio's platform to engage and educate the global developer community.",
+      "key_skills": [
+        "developer",
+        "education",
+        "video",
+        "content"
+      ],
+      "core_skills": [
+        "collaboration",
+        "project_management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "developer-evangelist-twilio-82292070": {
+      "summary": "Developer Evangelist specializing in AI technology who inspires and equips developers to build with Twilio products, serves as the regional liaison for local developer communities, and builds Twilio-powered solutions to address developer needs.",
+      "key_skills": [
+        "python",
+        "php",
+        "node",
+        "csharp",
+        "java",
+        "ai",
+        "web_frameworks",
+        "empathy"
+      ],
+      "core_skills": [
+        "ai",
+        "technical_expertise",
+        "cross_functional_collaboration",
+        "storytelling"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "global-events-manage-twilio-82292070": {
+      "summary": "The Global Events Manager leads the end-to-end planning and execution of Twilio's flagship SIGNAL conference, managing global logistics, budgets, and cross-functional teams to deliver a world-class event experience for developers and executives.",
+      "key_skills": [
+        "event marketing",
+        "project management",
+        "global events",
+        "budget management",
+        "strategic planning",
+        "cross-functional leadership",
+        "content strategy",
+        "kpi analysis"
+      ],
+      "core_skills": [
+        "event marketing",
+        "project management",
+        "global events",
+        "budget management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "marketing-analyst--p-twilio-82292070": {
+      "summary": "Marketing Analyst who owns PLG analytics for Twilio's self-serve business, translating business needs into technical solutions using Python and SQL, and building strategic partnerships with sales and marketing teams to drive growth experiments and scalable insights.",
+      "key_skills": [
+        "sql",
+        "python",
+        "plg",
+        "self-serve",
+        "ai",
+        "llm",
+        "data",
+        "analytics"
+      ],
+      "core_skills": [
+        "sql",
+        "python",
+        "plg",
+        "self-serve"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "product-management---twilio-82292070": {
+      "summary": "Product Manager on the Edge team leads product development for Twilio's unified Console platform, focusing on next-generation API management tools, elevating developer experience, and pioneering AI agent interactions.",
+      "key_skills": [
+        "product management",
+        "api management",
+        "developer experience",
+        "edge computing",
+        "ai agents",
+        "technical entrepreneurship",
+        "api governance",
+        "software engineering"
+      ],
+      "core_skills": [
+        "technical aptitude",
+        "developer empathy",
+        "execution mindset",
+        "strategic problem solving"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "product-manager--l2-twilio-82292070": {
+      "summary": "Product Manager on the Console team leads product development for the unified Console platform, driving self-service goals and AI-driven experiences to empower developers.",
+      "key_skills": [
+        "product management",
+        "ai",
+        "console",
+        "developer experience",
+        "data-driven platforms",
+        "web applications",
+        "m&a portal migration",
+        "legacy console sunset"
+      ],
+      "core_skills": [
+        "product management",
+        "ai",
+        "developer experience"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--gtma-twilio-82292070": {
+      "summary": "Leads GTMA System Analysts and Compliance team to ensure SOX compliance, data governance, and sales automation through strategic planning and cross-functional collaboration.",
+      "key_skills": [
+        "salesforce",
+        "sox compliance",
+        "data governance",
+        "gtm operations",
+        "business analysis",
+        "sales automation",
+        "ai integration",
+        "compliance readiness"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic planning",
+        "cross-functional collaboration",
+        "process optimization"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-marke-twilio-82292070": {
+      "summary": "Senior Product Marketing Manager develops compelling messaging and content for Twilio's data products, including Twilio Segment CDP, by translating complex technical features into customer-centric narratives and driving product launches through cross-functional collaboration.",
+      "key_skills": [
+        "product marketing",
+        "data products",
+        "customer data platform",
+        "cdp",
+        "messaging",
+        "content strategy",
+        "market research",
+        "customer personas"
+      ],
+      "core_skills": [
+        "technical marketing",
+        "strategic thinking",
+        "cross-functional collaboration",
+        "customer advocacy"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-sales-system--twilio-82292070": {
+      "summary": "Senior Salesforce Developer works with GTM Automation team to evolve Salesforce data models, build custom functionality using SOQL, Apex, and other tools, and ensure scalable, high-quality solutions for enterprise systems.",
+      "key_skills": [
+        "salesforce",
+        "apex",
+        "soql",
+        "lightning web components",
+        "github",
+        "ci/cd",
+        "integration patterns",
+        "ai-assisted development"
+      ],
+      "core_skills": [
+        "salesforce development",
+        "system architecture",
+        "data modeling",
+        "integration design"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-software-engi-twilio-82292070": {
+      "summary": "Senior Software Engineer develops fraud detection and prevention products for Stytch, focusing on device fingerprinting to identify bots and abuse while collaborating with product and engineering teams to enhance security solutions.",
+      "key_skills": [
+        "c",
+        "c++",
+        "javascript",
+        "go",
+        "webassembly",
+        "reverse engineering",
+        "fraud detection",
+        "security"
+      ],
+      "core_skills": [
+        "system design",
+        "production systems",
+        "code quality",
+        "technical leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "software-engineer--l-twilio-82292070": {
+      "summary": "Designs, builds, and maintains scalable data infrastructure and frameworks using modern data technologies to support data ingestion, processing, and analysis while collaborating with cross-functional teams.",
+      "key_skills": [
+        "python",
+        "java",
+        "scala",
+        "kafka",
+        "spark",
+        "hive",
+        "hudi",
+        "presto"
+      ],
+      "core_skills": [
+        "big_data",
+        "aws"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "software-engineer----twilio-82292070": {
+      "summary": "Software engineer who designs and implements real-time services with high throughput and low latency requirements, works closely with stakeholders to understand customer needs, and ensures reliable voice communication for Twilio's customers.",
+      "key_skills": [
+        "java",
+        "restful",
+        "kafka",
+        "sqs",
+        "ci_cd",
+        "aws",
+        "gcp",
+        "azure"
+      ],
+      "core_skills": [
+        "distributed_systems",
+        "cloud_infrastructure"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-analytics-engi-twilio-82292070": {
+      "summary": "Designs and maintains analytics data layers using AWS Glue, Presto, and LookML to ensure data consistency and quality for R&D metrics.",
+      "key_skills": [
+        "aws glue",
+        "presto",
+        "lookml",
+        "sql",
+        "data engineering",
+        "data analytics",
+        "data quality",
+        "data modeling"
+      ],
+      "core_skills": [
+        "sql",
+        "data engineering",
+        "data analytics",
+        "data quality"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff--product-manag-twilio-82292070": {
+      "summary": "Owns Senders and Numbers products to create streamlined onboarding experiences while maintaining compliance standards through business requirements, cross-functional collaboration, and data-driven execution.",
+      "key_skills": [
+        "product management",
+        "saaS",
+        "api",
+        "cloud",
+        "compliance",
+        "onboarding",
+        "developer experience",
+        "regulated ecosystem"
+      ],
+      "core_skills": [
+        "product strategy",
+        "cross-functional collaboration",
+        "data-driven decision making",
+        "executive communication"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-product-manage-twilio-82292070": {
+      "summary": "Staff Product Manager leads product strategy and execution for AI-powered solutions across both GTM and Corporate Functions to transform workflows in Sales, Support, Operations, Finance, Legal, and HR.",
+      "key_skills": [
+        "product management",
+        "ai",
+        "enterprise",
+        "strategy",
+        "roadmap",
+        "cross-functional",
+        "agentic solutions",
+        "automation"
+      ],
+      "core_skills": [
+        "product strategy",
+        "roadmap execution",
+        "cross-functional leadership",
+        "ai implementation"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "strategic-account-ex-twilio-82292070": {
+      "summary": "Owns and grows strategic nonprofit and healthcare accounts with net-new bookings, expansion, and long-term revenue growth while building trust-based relationships with executive stakeholders.",
+      "key_skills": [
+        "sales",
+        "nonprofit",
+        "healthcare",
+        "strategic_account_management",
+        "customer_relationships",
+        "account_growth",
+        "revenue_growth",
+        "strategic_planning"
+      ],
+      "core_skills": [
+        "sales",
+        "nonprofit",
+        "healthcare",
+        "strategic_account_management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "strategy---operation-twilio-82292070": {
+      "summary": "Safeguards Twilio's reputation by navigating global telecom regulations and product innovation, managing country-level compliance programs, and partnering cross-functionally to mitigate risks while identifying growth opportunities.",
+      "key_skills": [
+        "compliance",
+        "telecom",
+        "regulatory",
+        "strategy",
+        "operations",
+        "program",
+        "governance",
+        "cross-functional"
+      ],
+      "core_skills": [
+        "compliance",
+        "telecom",
+        "regulatory",
+        "strategy"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "full-stack-engineer--launchdarkly-82292070": {
+      "summary": "Full Stack Engineer designs and builds enterprise-grade features for Observability, focusing on Infrastructure-as-Code and integrations with enterprise tools to close adoption gaps.",
+      "key_skills": [
+        "full-stack",
+        "infrastructure-as-code",
+        "integrations",
+        "observability",
+        "typescript",
+        "go",
+        "api-design",
+        "gitops"
+      ],
+      "core_skills": [
+        "full-stack",
+        "infrastructure-as-code",
+        "integrations",
+        "observability"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "infrastructure-engin-launchdarkly-82292070": {
+      "summary": "Automates infrastructure provisioning, deployment, and operational workflows while building tools to improve engineering productivity and manage AWS infrastructure using Terraform.",
+      "key_skills": [
+        "aws",
+        "terraform",
+        "ci_cd",
+        "kubernetes",
+        "observability"
+      ],
+      "core_skills": [
+        "infrastructure_engineering",
+        "aws",
+        "terraform"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "mid-market-account-e-launchdarkly-82292070": {
+      "summary": "This role focuses on qualifying leads, prospecting, and closing deals while working with sales engineers to help customers adopt LaunchDarkly's platform.",
+      "key_skills": [
+        "sales",
+        "customer",
+        "product",
+        "prospecting",
+        "demo",
+        "pricing",
+        "cloud",
+        "sales_engineering"
+      ],
+      "core_skills": [
+        "sales",
+        "customer",
+        "product"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "sdk-software-enginee-launchdarkly-82292070": {
+      "summary": "Builds and maintains AI SDKs for customers to control, monitor, and optimize GenAI functionality",
+      "key_skills": [
+        "python",
+        "typescript",
+        "ai",
+        "sdk",
+        "open-source",
+        "concurrency",
+        "resiliency",
+        "performance"
+      ],
+      "core_skills": [
+        "python",
+        "typescript",
+        "ai",
+        "sdk"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-counsel-launchdarkly-82292070": {
+      "summary": "Provides legal support across product, privacy, corporate, and employment matters in a global SaaS business by partnering with cross-functional teams to execute on legal workstreams.",
+      "key_skills": [
+        "legal",
+        "compliance",
+        "privacy",
+        "ip"
+      ],
+      "core_skills": [
+        "legal_advice",
+        "cross_functional",
+        "risk_management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-manager--it---launchdarkly-82292070": {
+      "summary": "Manages global IT service desk engineering operations for employee support, endpoint lifecycle, and hybrid workforce services across US, Ireland, and India.",
+      "key_skills": [
+        "it service desk engineering",
+        "endpoint management",
+        "ticketing systems",
+        "service request fulfillment",
+        "ai automation",
+        "knowledge base management",
+        "operational processes",
+        "hybrid workforce support"
+      ],
+      "core_skills": [
+        "process optimization",
+        "cross-functional collaboration",
+        "metrics-driven decision making",
+        "technical leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-product-desig-launchdarkly-82292070": {
+      "summary": "Designs the Foundation trial and activation experience for developers, focusing on reducing friction and improving conversion from signup through SDK integration to paid plans.",
+      "key_skills": [
+        "growth design",
+        "user experience",
+        "product design",
+        "experimentation",
+        "data-driven",
+        "activation funnels",
+        "conversion experiments",
+        "behavioral design"
+      ],
+      "core_skills": [
+        "growth design",
+        "experimentation",
+        "data-driven",
+        "user experience"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "solutions-architect--launchdarkly-82292070": {
+      "summary": "Solutions Architect leads strategic engagements to help customers adopt and operationalize AI-powered applications using LaunchDarkly, focusing on safe AI rollouts, experimentation, and governance.",
+      "key_skills": [
+        "solutions architecture",
+        "ai implementation",
+        "feature management",
+        "llm integration",
+        "experimentation",
+        "governance",
+        "agentic workflows",
+        "chatbots"
+      ],
+      "core_skills": [
+        "solutions architecture",
+        "ai implementation",
+        "feature management",
+        "llm integration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "staff-engineer---exp-launchdarkly-82292070": {
+      "summary": "Builds and maintains statistical engines and experimentation platforms that enable data-driven decision-making for engineering teams, integrating with feature management systems to run A/B tests and optimize customer experiences.",
+      "key_skills": [
+        "statistical_engineering",
+        "experimentation_platforms",
+        "data_science",
+        "machine_learning",
+        "warehouse_integration",
+        "contextual_bandits",
+        "bayesian_optimization",
+        "rl_based_allocation"
+      ],
+      "core_skills": [
+        "statistical_validity",
+        "system_architecture",
+        "warehouse_agnostic_design",
+        "adaptive_experimentation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "staff-engineer--guar-launchdarkly-82292070": {
+      "summary": "Staff Engineer responsible for prototyping 0-to-1 innovations at the intersection of feature flags and observability, leading technical direction for new product areas while ensuring safe and reliable software releases.",
+      "key_skills": [
+        "software engineering",
+        "feature flags",
+        "observability",
+        "cloud-native",
+        "data pipelines",
+        "statistical analysis",
+        "release management",
+        "automated pipelines"
+      ],
+      "core_skills": [
+        "prototyping",
+        "observability expertise",
+        "cross-functional collaboration",
+        "technical leadership"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "strategic-account-ex-launchdarkly-82292070": {
+      "summary": "Owns strategic customer relationships, drives account expansion, and ensures successful adoption of LaunchDarkly within large enterprises through cross-functional collaboration and executive stakeholder engagement.",
+      "key_skills": [
+        "strategic account management",
+        "customer relationship ownership",
+        "territory planning",
+        "pipeline generation",
+        "adoption assurance",
+        "cross-functional collaboration",
+        "sales execution",
+        "consultative selling"
+      ],
+      "core_skills": [
+        "strategic sales",
+        "account expansion",
+        "executive stakeholder engagement",
+        "land and expand sas"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "director-of-pricing--pagerduty-82292071": {
+      "summary": "Owns strategy and execution of packaging, pricing, and monetization for PagerDuty's Operations Cloud platform, working closely with Product, Sales, Finance, and Marketing to ensure pricing translates into commercial results.",
+      "key_skills": [
+        "product",
+        "monetization",
+        "pricing",
+        "strategy",
+        "pricing",
+        "monetization",
+        "product",
+        "management"
+      ],
+      "core_skills": [
+        "pricing",
+        "monetization",
+        "product",
+        "strategy"
+      ],
+      "seniority_signal": "director",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "principal-product-de-pagerduty-82292071": {
+      "summary": "Principal Product Designer leads design strategy for AI and automation capabilities, partnering with leadership to define intuitive user experiences for AI agents and intelligent insights in PagerDuty's Operations Cloud.",
+      "key_skills": [
+        "ai",
+        "automation",
+        "product_design",
+        "ux_design",
+        "ml",
+        "data_science",
+        "engineering"
+      ],
+      "core_skills": [
+        "product_strategy",
+        "cross_functional_collaboration",
+        "design_principles"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "sr--principal-custom-pagerduty-82292071": {
+      "summary": "Senior Principal Customer Success Manager builds executive-level trusted advisor relationships with customers' IT, Engineering, and Support organizations to accelerate their digital journey through real-time operations and strategic guidance.",
+      "key_skills": [
+        "customer success",
+        "digital operations",
+        "devops",
+        "it monitoring",
+        "cloud migration",
+        "ai/ml",
+        "automation",
+        "digital transformation"
+      ],
+      "core_skills": [
+        "trusted advisor",
+        "business value",
+        "risk mitigation",
+        "process optimization"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-customer-engi-collibra-82292071": {
+      "summary": "Senior Customer Engineers provide timely technical expertise on Collibra's products to customers, prospects, partners, and internal teams, mapping solutions to value across large and dynamic customers while bridging business and technical requirements.",
+      "key_skills": [
+        "data governance",
+        "data catalogs",
+        "data integration",
+        "data quality",
+        "data privacy",
+        "cloud data infrastructure",
+        "api-driven integration",
+        "data engineering"
+      ],
+      "core_skills": [
+        "technical expertise",
+        "customer relationship management",
+        "product feedback",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--sale-collibra-82292071": {
+      "summary": "Senior Manager leads the design, implementation, and administration of sales incentive programs by partnering with revenue operations, HR, and sales to ensure compensation plans drive high performance and reward behaviors.",
+      "key_skills": [
+        "sales compensation",
+        "revenue operations",
+        "xactly",
+        "salesforce",
+        "workday",
+        "commission planning",
+        "stakeholder communication",
+        "dispute resolution"
+      ],
+      "core_skills": [
+        "xactly",
+        "salesforce",
+        "workday",
+        "commission planning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "federal-senior-saviy-saviynt-82292071": {
+      "summary": "The Senior Saviynt Product Architect designs and implements secure identity governance solutions, ensuring compliance and operational efficiency through technical leadership and cross-functional collaboration.",
+      "key_skills": [
+        "identity",
+        "access",
+        "governance",
+        "security",
+        "compliance",
+        "workflow",
+        "api",
+        "integration"
+      ],
+      "core_skills": [
+        "identity_governance",
+        "api_integration",
+        "cloud_security",
+        "compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [
+        "us_citizenship_required"
+      ],
+      "work_mode_derived": "onsite"
+    },
+    "identity-security----saviynt-82292071": {
+      "summary": "Technical Account Manager who provides technical guidance and strategic direction for enterprise identity security clients, leading complex identity transformations and ensuring Saviynt platform integration.",
+      "key_skills": [
+        "identity security",
+        "technical account management",
+        "identity governance",
+        "identity access management",
+        "identity transformation",
+        "client engagement",
+        "technical architecture",
+        "project delivery"
+      ],
+      "core_skills": [
+        "identity security",
+        "technical account management",
+        "identity governance",
+        "identity access management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--accounting--saviynt-82292071": {
+      "summary": "Manages and optimizes NetSuite environment while driving automation of financial processes to support SaaS growth and compliance.",
+      "key_skills": [
+        "netSuite",
+        "accounting",
+        "finance",
+        "saaS",
+        "revenue recognition",
+        "automation",
+        "data governance",
+        "integration"
+      ],
+      "core_skills": [
+        "netSuite",
+        "account:ing",
+        "finance",
+        "saaS"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "named-account-execut-saviynt-82292071": {
+      "summary": "Drives sales for IaaS Cloud Security, Access Governance & Privileged Access Management solutions to large enterprise customers in Southern California through prospecting, demos, RFPs, and closing deals.",
+      "key_skills": [
+        "ai",
+        "identity",
+        "cloud_security",
+        "access_governance",
+        "privileged_access_management",
+        "sales",
+        "prospecting",
+        "enterprise"
+      ],
+      "core_skills": [
+        "sales",
+        "prospecting",
+        "opportunity_discovery",
+        "pipeline_management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "pam-technical-archit-saviynt-82292071": {
+      "summary": "Technical architect leads post-sales Privileged Access Management engagements, including discovery, solution design, implementation, and documentation for secure access management across hybrid and multi-cloud environments.",
+      "key_skills": [
+        "technical architect",
+        "pam",
+        "identity access management",
+        "cloud security",
+        "privileged access management",
+        "implementation",
+        "solution design",
+        "documentation"
+      ],
+      "core_skills": [
+        "pam",
+        "identity access management",
+        "cloud security",
+        "implementation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "sales-development-re-saviynt-82292071": {
+      "summary": "Identifies and engages federal agency prospects to align Saviynt's identity governance solutions with their infrastructure challenges and initiate sales cycles through outbound prospecting and inbound lead follow-up.",
+      "key_skills": [
+        "sales",
+        "prospecting",
+        "outbound",
+        "enterprise",
+        "federal",
+        "ig",
+        "igap",
+        "cloud"
+      ],
+      "core_skills": [
+        "sales",
+        "prospecting",
+        "outbound"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior--principal-fe-saviynt-82292071": {
+      "summary": "The Senior/Principal Federal Security Engineer designs and maintains high-fidelity detection rules and analytics across security stacks and cloud environments, while leading incident response, vulnerability management, and threat hunting for FedRAMP-compliant systems.",
+      "key_skills": [
+        "federally regulated environments",
+        "fedramp",
+        "nism",
+        "nism sp 800-53 rev 5",
+        "vulnerability triage",
+        "threat detection",
+        "incident response",
+        "soar"
+      ],
+      "core_skills": [
+        "fedramp",
+        "nism sp 800-53 rev 5",
+        "vulnerability triage",
+        "threat detection"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [
+        "us citizenship",
+        "background investigation",
+        "ial3"
+      ],
+      "work_mode_derived": "onsite"
+    },
+    "senior-principal-sof-saviynt-82292071": {
+      "summary": "Designs, implements, tests, and releases end-to-end workflows for AI security products while building foundational solutions across multiple agent platforms like AWS Bedrock and Google AgentSpace.",
+      "key_skills": [
+        "java",
+        "spring",
+        "rest",
+        "microservices",
+        "ai",
+        "agents",
+        "cloud",
+        "aws"
+      ],
+      "core_skills": [
+        "java",
+        "spring",
+        "rest",
+        "microservices"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-solutions-eng-saviynt-82292071": {
+      "summary": "The Senior Solutions Engineer collaborates with Account Executives and Regional VPs to sell integrated Access Governance and Identity Security solutions with AI to customers, providing technical presentations, RFP responses, POCs, and mentoring Solutions Engineers.",
+      "key_skills": [
+        "ai",
+        "identity",
+        "governance",
+        "security",
+        "cloud",
+        "devops",
+        "terraform",
+        "aws"
+      ],
+      "core_skills": [
+        "technical",
+        "sales",
+        "solution",
+        "architecture"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "sr--principal--techn-saviynt-82292071": {
+      "summary": "Technical Program Manager manages project deliverables, facilitates cross-functional development, and ensures timely delivery of software and services while maintaining security and compliance.",
+      "key_skills": [
+        "technical program management",
+        "agile software development",
+        "jira",
+        "confluence",
+        "cloud security",
+        "firewall technology",
+        "project management",
+        "technical architecture"
+      ],
+      "core_skills": [
+        "technical program management",
+        "ag: software development lifecycle",
+        "project management",
+        "technical architecture"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "ai-integrations-staf-vetcove-82292071": {
+      "summary": "An Applied AI Staff Engineer integrates cutting-edge AI models into existing features to enhance veterinary software products, collaborating with data science teams to fine-tune models for optimal performance in real-world scenarios.",
+      "key_skills": [
+        "ai",
+        "machine_learning",
+        "python",
+        "model_integration",
+        "fine_tuning",
+        "observability",
+        "data_science",
+        "software_engineering"
+      ],
+      "core_skills": [
+        "ai_model_integration",
+        "python_development",
+        "observability_platforms",
+        "fine_tuning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "clinic-growth-manage-vetcove-82292071": {
+      "summary": "The Clinic Growth Manager designs and runs programs to engage, grow, and retain veterinary clinics using data-driven strategies, community initiatives, and platform optimization.",
+      "key_skills": [
+        "community engagement",
+        "growth marketing",
+        "customer success",
+        "account management",
+        "data analysis",
+        "program management",
+        "veterinary healthcare",
+        "saaS"
+      ],
+      "core_skills": [
+        "data analysis",
+        "program management",
+        "customer success",
+        "community engagement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "controller-vetcove-82292071": {
+      "summary": "Owns accounting, payroll, tax filing, invoicing, bank reconciliation, expense management, budgeting, and payment processing while ensuring compliance with US GAAP and tax regulations.",
+      "key_skills": [
+        "quickbooks",
+        "accounting",
+        "tax",
+        "financial_reporting",
+        "budgeting",
+        "payroll",
+        "reconciliation",
+        "internal_control"
+      ],
+      "core_skills": [
+        "us_gaap",
+        "big_4_experience",
+        "e_commerce",
+        "marketplaces"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [
+        "no_work_visa_sponsorship"
+      ],
+      "work_mode_derived": "remote"
+    },
+    "customer-success-man-vetcove-82292071": {
+      "summary": "Customer Success Manager focuses on developing and maintaining strategic relationships with veterinary hospital consolidators to understand their needs, demonstrate Vetcove's value, and ensure their long-term success through product feedback and roadmap development.",
+      "key_skills": [
+        "customer success",
+        "account management",
+        "strategic partnership",
+        "veterinary industry",
+        "market consolidation",
+        "product feedback",
+        "roadmap development",
+        "corporate relationships"
+      ],
+      "core_skills": [
+        "account management",
+        "strategic partnership",
+        "product feedback",
+        "roadmap development"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "growth-lead--pims-vetcove-82292071": {
+      "summary": "Owns AI-driven marketing strategy to help veterinary clinics grow revenue through scalable automated customer journeys and AI-powered tools.",
+      "key_skills": [
+        "ai",
+        "marketing",
+        "growth",
+        "product",
+        "experimentation",
+        "automation",
+        "personalization",
+        "data"
+      ],
+      "core_skills": [
+        "ai",
+        "marketing",
+        "growth",
+        "product"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "manager--customer-su-vetcove-82292071": {
+      "summary": "Manages a team of support associates to optimize customer experience processes for veterinary software platforms, ensuring high-quality support through multichannel interactions and cross-functional collaboration.",
+      "key_skills": [
+        "customer_support",
+        "process_optimization",
+        "team_management",
+        "multichannel_support",
+        "cross_functional_collaboration",
+        "cx_strategy",
+        "ticketing_systems",
+        "veterinary_software"
+      ],
+      "core_skills": [
+        "team_management",
+        "process_optimization",
+        "multichannel_support",
+        "cross_functional_collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [
+        "scammers_impersonating_employees"
+      ],
+      "work_mode_derived": "hybrid"
+    },
+    "saas-implementation--vetcove-82292071": {
+      "summary": "Platform Implementation Manager oversees end-to-end onboarding of veterinary clinics onto Vetcove's platform, guiding them through setup, training, data migrations, and system configuration to ensure long-term success.",
+      "key_skills": [
+        "project management",
+        "software implementation",
+        "client onboarding",
+        "data migration",
+        "system configuration",
+        "training",
+        "technical communication",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "project management",
+        "client onboarding",
+        "data migration",
+        "system configuration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-accounting-ma-vetcove-82292071": {
+      "summary": "Senior Accounting Manager handles day-to-day accounting, treasury, and finance operations including monthly close, cash flow monitoring, tax filings, bank reconciliations, and financial analysis.",
+      "key_skills": [
+        "accounting",
+        "treasury",
+        "finance",
+        "close",
+        "reconciliation",
+        "tax",
+        "bank",
+        "amortization"
+      ],
+      "core_skills": [
+        "accounting",
+        "treasury",
+        "finance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [
+        "scammers",
+        "impersonation"
+      ],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--clie-vetcove-82292071": {
+      "summary": "Onboarding and Implementation Manager leads end-to-end onboarding for veterinary clinics, managing a team of 5+ specialists to ensure seamless platform implementation and long-term success.",
+      "key_skills": [
+        "project_management",
+        "client_onboarding",
+        "implementation_strategy",
+        "team_mentorship",
+        "saaS",
+        "veterinary_software",
+        "cross_functional_alignment",
+        "process_optimization"
+      ],
+      "core_skills": [
+        "project_management",
+        "client_onboarding",
+        "implementation_strategy",
+        "team_mentorship"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-software-engi-vetcove-82292071": {
+      "summary": "Senior Software Engineer contributes to product development from conception to completion, building interactive web and mobile applications while maintaining high code quality and system integrity.",
+      "key_skills": [
+        "react",
+        "javascript",
+        "python",
+        "databases",
+        "testing",
+        "web_frameworks",
+        "mobile_development",
+        "typescript"
+      ],
+      "core_skills": [
+        "software_engineering",
+        "feature_development",
+        "system_design",
+        "remote_work"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-frontend-engin-vetcove-82292071": {
+      "summary": "Staff Frontend Engineer leads frontend architecture and evolution of user-facing experiences across Vetcove's platforms, owning critical systems that power interactions for tens of thousands of veterinary professionals and millions of pet parents daily.",
+      "key_skills": [
+        "react",
+        "typescript",
+        "javascript",
+        "frontend",
+        "mobile",
+        "performance",
+        "accessibility",
+        "design-systems"
+      ],
+      "core_skills": [
+        "frontend-architecture",
+        "performance-optimization",
+        "state-management",
+        "cross-stack-issues"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-product-design-vetcove-82292071": {
+      "summary": "A staff product designer crafts exceptional user experiences for veterinary clinics by leading end-to-end design efforts from research to implementation, collaborating with engineers and product managers to solve complex workflow challenges.",
+      "key_skills": [
+        "product design",
+        "user experience",
+        "interaction design",
+        "visual design",
+        "systems thinking",
+        "wireframing",
+        "prototyping",
+        "design system"
+      ],
+      "core_skills": [
+        "end-to-end design",
+        "collaboration with engineers",
+        "user research",
+        "design sprints"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-software-engin-vetcove-82292071": {
+      "summary": "Staff Software Engineer designs, builds, and improves tools for veterinary clinics to streamline operations and patient care while managing complex systems.",
+      "key_skills": [
+        "react",
+        "javascript",
+        "typescript",
+        "python",
+        "databases",
+        "api",
+        "scalable systems",
+        "react native"
+      ],
+      "core_skills": [
+        "system design",
+        "architecture",
+        "code quality",
+        "mentorship"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "tax-specialist-vetcove-82292071": {
+      "summary": "Oversees sales tax compliance using Avalara, maintains income tax documentation, and supports tax planning activities to ensure accurate filings and regulatory adherence across multiple jurisdictions.",
+      "key_skills": [
+        "tax compliance",
+        "sales tax",
+        "filing returns",
+        "avalara",
+        "tax planning",
+        "income tax",
+        "tax regulations",
+        "multi-state tax"
+      ],
+      "core_skills": [
+        "tax compliance",
+        "sales tax",
+        "filing returns",
+        "avalara"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "vet-clinic-retention-vetcove-82292071": {
+      "summary": "The role involves proactively identifying at-risk veterinary clinics, conducting strategic outreach via phone and digital channels, training users on platform features, resolving customer concerns, creating educational content, and collaborating with cross-functional teams to enhance retention strategies.",
+      "key_skills": [
+        "customer_retention",
+        "proactive_outreach",
+        "veterinary_software",
+        "community_engagement",
+        "problem_solving",
+        "analytical_thinking",
+        "content_creation",
+        "cross_functional_collaboration"
+      ],
+      "core_skills": [
+        "communication",
+        "adaptability",
+        "customer_success",
+        "veterinary_industry"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "vet-clinic-support-a-vetcove-82292071": {
+      "summary": "Supports veterinary professionals through live chat, phone, and email to resolve procurement and platform issues while improving their supply ordering experience.",
+      "key_skills": [
+        "veterinary software",
+        "procurement marketplace",
+        "ecommerce",
+        "practice management system",
+        "pet parent healthcare",
+        "customer support",
+        "live chat",
+        "phone support"
+      ],
+      "core_skills": [
+        "customer support",
+        "troubleshooting",
+        "cross-functional collaboration",
+        "process improvement"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     }
   }
 }

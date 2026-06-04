@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-03T12:17:29.092634+00:00",
+    "built_at": "2026-06-04T10:31:38.465452+00:00",
     "total_jobs": 628,
-    "enriched": 484
+    "enriched": 497
   },
   "jobs": {
     "account-executive-ii-smarsh-84608340": {
@@ -9093,6 +9093,34 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "customer-account-man-lattice-82292070": {
+      "summary": "lattice hires people to work on lattice",
+      "key_skills": [
+        "lattice",
+        "lattice"
+      ],
+      "core_skills": [
+        "lattice"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--customer-ac-lattice-82292070": {
+      "summary": "lattice hires people to work on lattice",
+      "key_skills": [
+        "lattice",
+        "lattice"
+      ],
+      "core_skills": [
+        "lattice"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "director--learning-affirm-82292070": {
       "summary": "Leads the Learning team at Affirm, developing and executing learning strategies to enhance individual, team, and leadership capabilities while driving organizational performance and culture.",
       "key_skills": [
@@ -9150,6 +9178,29 @@
         "leadership"
       ],
       "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-software-engi-affirm-82292070": {
+      "summary": "Owning and delivering quarterly goals for the Trust Infra team, leading engineers through ambiguity to solve complex problems, and ensuring high availability of security systems.",
+      "key_skills": [
+        "kubernetes",
+        "python",
+        "kotlin",
+        "aws",
+        "mysql",
+        "helm",
+        "operator",
+        "security"
+      ],
+      "core_skills": [
+        "kubernetes",
+        "python",
+        "kotlin",
+        "security"
+      ],
+      "seniority_signal": "lead",
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -9265,71 +9316,6 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "experienced-diesel-t-carvana-82292070": {
-      "summary": "Performs preventative maintenance, inspections, and component replacements on Class 8 trucks and trailers, utilizing diagnostic tools to troubleshoot engine, transmission, and aftertreatment system issues while ensuring DOT compliance.",
-      "key_skills": [
-        "diesel",
-        "trucks",
-        "trailer",
-        "diagnostics",
-        "engine",
-        "transmission",
-        "aftertreatment",
-        "emissions"
-      ],
-      "core_skills": [
-        "diesel",
-        "trucks",
-        "trailer",
-        "diagnostics"
-      ],
-      "seniority_signal": "entry",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "logistics-manager-carvana-82292070": {
-      "summary": "Manages and optimizes Vehicle Transport operations while solving complex obstacles to ensure Carvana's used car purchase process promise.",
-      "key_skills": [
-        "logistics",
-        "problem-solving",
-        "operations",
-        "optimization",
-        "strategic",
-        "executive"
-      ],
-      "core_skills": [
-        "logistics",
-        "problem-solving"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "logistics-manager--3-carvana-82292070": {
-      "summary": "Oversees day-to-day transportation operations, coordinates with site leaders, reviews route schedules, ensures safety standards, and manages warehouse inventory workflows.",
-      "key_skills": [
-        "logistics",
-        "supply_chain",
-        "transportation",
-        "inventory",
-        "warehouse",
-        "scheduling",
-        "route_planning",
-        "cdl"
-      ],
-      "core_skills": [
-        "leadership",
-        "safety_compliance",
-        "team_mentoring",
-        "performance_management"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
     "commercial-account-e-grafanalabs-82292070": {
       "summary": "Prospects and closes new business in the Eastern region, manages sales pipeline, and ensures customer satisfaction through technical product value articulation.",
       "key_skills": [
@@ -9374,23 +9360,23 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "cx-automation-perfor-betterment-82292070": {
-      "summary": "This person works on data analysis and machine learning models to improve financial products and services.",
+    "senior-manager--anal-grafanalabs-82292070": {
+      "summary": "Designs reliable, accurate, powerful, and easy-to-use dashboards and reporting tools to support sales and operational teams while developing data models for financial metrics and optimizing information design across the GTM technology stack.",
       "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
         "sql",
-        "data_science",
-        "big_data",
-        "cloud_computing"
+        "data-visualization",
+        "data-modeling",
+        "etl",
+        "bigquery",
+        "snowflake",
+        "dbt",
+        "salesforce"
       ],
       "core_skills": [
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql"
+        "sql",
+        "data-visualization",
+        "data-modeling",
+        "etl"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
@@ -9438,6 +9424,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "solutions-engineerin-cloudflare-82292070": {
+      "summary": "Manages cross-functional technical activities for the sales life cycle of Cloudflare customers across the SoCal region, leading a distributed team of Solutions Engineers to deliver value and support customer success.",
+      "key_skills": [
+        "ai-native",
+        "curiosity",
+        "solutions-engineering",
+        "sales",
+        "customer-success",
+        "technical-communication",
+        "team-leadership",
+        "cross-functional"
+      ],
+      "core_skills": [
+        "sales-cycle-management",
+        "technical-proofing",
+        "cross-functional-collaboration",
+        "customer-focus"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "account-executive-4--twilio-82292070": {
       "summary": "Account Executive leads prospecting, solution selling, and closing new business opportunities across Twilio's Messaging, Voice, and Email products for Financial Services clients.",
@@ -9566,6 +9575,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "principal-machine-le-twilio-82292070": {
+      "summary": "Architects and evolves Twilio's end-to-end ML and real-time data platforms for reliability, security, and cost efficiency while leading cross-functional engineering efforts to build scalable feature stores and streaming pipelines.",
+      "key_skills": [
+        "python",
+        "aws",
+        "kubernetes",
+        "mlflow",
+        "kafka",
+        "spark",
+        "sql",
+        "noSQL"
+      ],
+      "core_skills": [
+        "cloud-native",
+        "mlops",
+        "distributed-systems",
+        "model-serving"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "product-management---twilio-82292070": {
       "summary": "Product Manager on the Edge team leads product development for Twilio's unified Console platform, focusing on next-generation API management tools, elevating developer experience, and pioneering AI agent interactions.",
       "key_skills": [
@@ -9628,6 +9660,28 @@
         "strategic planning",
         "cross-functional collaboration",
         "process optimization"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--mach-twilio-82292070": {
+      "summary": "Manages a team of machine learning and data engineers to build advanced machine learning models and robust data pipelines for real-time risk prediction and decision-making across communication channels.",
+      "key_skills": [
+        "machine learning",
+        "data engineering",
+        "distributed systems",
+        "cloud computing",
+        "ai",
+        "model monitoring",
+        "ci/cd",
+        "agile"
+      ],
+      "core_skills": [
+        "technical depth",
+        "strategic mindset",
+        "stakeholder management"
       ],
       "seniority_signal": "senior",
       "role_type": "manager",
@@ -9697,6 +9751,29 @@
         "production systems",
         "code quality",
         "technical leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "social-media-manager-twilio-82292070": {
+      "summary": "Social Media Manager at Twilio creates original, compelling content across LinkedIn, Instagram, Facebook, and X to build community and grow awareness for B2B social media campaigns while using data to optimize engagement.",
+      "key_skills": [
+        "social media management",
+        "content strategy",
+        "short-form video",
+        "capcut",
+        "canva",
+        "data analytics",
+        "community building",
+        "b2b marketing"
+      ],
+      "core_skills": [
+        "content strategy",
+        "data analytics",
+        "community building",
+        "b2b marketing"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -10103,6 +10180,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "director--commercial-pagerduty-82292070": {
+      "summary": "Directs a team of Territory Executives to drive complex multi-product sales cycles with Fortune 500 and Global 2000 companies through strategic account expansion and upsell/cross-sell initiatives.",
+      "key_skills": [
+        "sales",
+        "enterprise",
+        "solutions",
+        "strategy",
+        "leadership",
+        "execution",
+        "account_management",
+        "territory"
+      ],
+      "core_skills": [
+        "sales_leadership",
+        "account_expansion",
+        "pipeline_management",
+        "forecasting"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "director-of-pricing--pagerduty-82292071": {
       "summary": "Owns strategy and execution of packaging, pricing, and monetization for PagerDuty's Operations Cloud platform, working closely with Product, Sales, Finance, and Marketing to ensure pricing translates into commercial results.",
       "key_skills": [
@@ -10170,6 +10270,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "senior-account-execu-collibra-82292071": {
+      "summary": "Spearheads strategic East Coast financial services accounts, acts as a trusted advisor to C-suite leaders on data governance and AI compliance, and drives adoption of data intelligence solutions.",
+      "key_skills": [
+        "data governance",
+        "data intelligence",
+        "financial services",
+        "sales",
+        "ai governance",
+        "regulatory compliance",
+        "saaS sales",
+        "financial services sales"
+      ],
+      "core_skills": [
+        "sales",
+        "financial services",
+        "data governance",
+        "regulatory compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "senior-customer-engi-collibra-82292071": {
       "summary": "Senior Customer Engineers provide timely technical expertise on Collibra's products to customers, prospects, partners, and internal teams, mapping solutions to value across large and dynamic customers while bridging business and technical requirements.",
       "key_skills": [
@@ -10215,6 +10338,32 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "senior-partnership-a-collibra-82292071": {
+      "summary": "Senior Partnership Account Manager drives business through SAP Solution Extension by collaborating with field sales, marketing, and customer engineering teams to identify growth opportunities, manage partner relationships, and support SAP territory expansion.",
+      "key_skills": [
+        "sap",
+        "data governance",
+        "data management",
+        "business intelligence",
+        "sales",
+        "partner management",
+        "account management",
+        "data analytics"
+      ],
+      "core_skills": [
+        "sap",
+        "sales",
+        "partner management",
+        "account management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [
+        "us citizen",
+        "resides on us soil"
+      ],
+      "work_mode_derived": "hybrid"
     },
     "federal-senior-saviy-saviynt-82292071": {
       "summary": "The Senior Saviynt Product Architect designs and implements secure identity governance solutions, ensuring compliance and operational efficiency through technical leadership and cross-functional collaboration.",
@@ -10474,6 +10623,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "associate-general-co-vetcove-82292071": {
+      "summary": "Drafts, reviews, negotiates, and manages commercial agreements for SaaS and enterprise customers while advising on product development, regulatory compliance, and strategic growth initiatives in the veterinary technology sector.",
+      "key_skills": [
+        "legal",
+        "contracting",
+        "saaS",
+        "compliance",
+        "regulatory",
+        "privacy",
+        "data_security",
+        "intellectual_property"
+      ],
+      "core_skills": [
+        "commercial_contracting",
+        "regulatory_analysis",
+        "product_counseling",
+        "strategic_growth"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "clinic-growth-manage-vetcove-82292071": {
       "summary": "The Clinic Growth Manager designs and runs programs to engage, grow, and retain veterinary clinics using data-driven strategies, community initiatives, and platform optimization.",
       "key_skills": [
@@ -10543,6 +10715,32 @@
       "seniority_signal": "mid",
       "role_type": "ic",
       "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "design-engineer-vetcove-82292071": {
+      "summary": "Design Engineer implements modular React components and complex CSS interactions to enhance veterinary software user experiences, collaborating closely with designers to translate Figma prototypes into high-quality production applications.",
+      "key_skills": [
+        "react",
+        "css",
+        "design",
+        "engineering",
+        "pixel",
+        "ui",
+        "veterinary",
+        "pets"
+      ],
+      "core_skills": [
+        "react",
+        "css",
+        "design",
+        "engineering"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [
+        "scammers",
+        "impersonation"
+      ],
       "work_mode_derived": "remote"
     },
     "growth-lead--pims-vetcove-82292071": {
@@ -10641,6 +10839,29 @@
       ],
       "work_mode_derived": "remote"
     },
+    "senior-account-manag-vetcove-82292071": {
+      "summary": "Senior Account Manager develops and maintains strategic relationships with veterinary hospital consolidators to drive customer growth and product development through market insights and tailored solutions.",
+      "key_skills": [
+        "account management",
+        "strategic planning",
+        "customer relationship management",
+        "corporate partnerships",
+        "market analysis",
+        "product development",
+        "feedback collection",
+        "veterinary industry"
+      ],
+      "core_skills": [
+        "strategic partnership",
+        "customer value demonstration",
+        "account strategy",
+        "market dynamics analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-manager--clie-vetcove-82292071": {
       "summary": "Onboarding and Implementation Manager leads end-to-end onboarding for veterinary clinics, managing a team of 5+ specialists to ensure seamless platform implementation and long-term success.",
       "key_skills": [
@@ -10663,6 +10884,29 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "senior-product-manag-vetcove-82292071": {
+      "summary": "Senior Product Manager owns high-impact product initiatives end-to-end, driving cross-functional alignment and product strategy to enhance veterinary software platforms for clinics and pet parents.",
+      "key_skills": [
+        "product management",
+        "strategy",
+        "roadmap",
+        "cross-functional",
+        "data analysis",
+        "user experience",
+        "quality assurance",
+        "mentoring"
+      ],
+      "core_skills": [
+        "product strategy",
+        "roadmap management",
+        "cross-functional leadership",
+        "data-driven decision making"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "senior-software-engi-vetcove-82292071": {
       "summary": "Senior Software Engineer contributes to product development from conception to completion, building interactive web and mobile applications while maintaining high code quality and system integrity.",
@@ -10824,6 +11068,48 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "logistics-manager-carvana-68442519": {
+      "summary": "Manages and optimizes Vehicle Transport operations while solving complex obstacles to ensure Carvana's used car purchase process promise.",
+      "key_skills": [
+        "logistics",
+        "problem-solving",
+        "operations",
+        "optimization",
+        "strategic",
+        "executive"
+      ],
+      "core_skills": [
+        "logistics",
+        "problem-solving"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "logistics-manager--3-carvana-68442519": {
+      "summary": "Oversees day-to-day transportation operations, coordinates with site leaders, reviews route schedules, ensures safety standards, and manages warehouse inventory workflows.",
+      "key_skills": [
+        "logistics",
+        "supply_chain",
+        "transportation",
+        "inventory",
+        "warehouse",
+        "scheduling",
+        "route_planning",
+        "cdl"
+      ],
+      "core_skills": [
+        "leadership",
+        "safety_compliance",
+        "team_mentoring",
+        "performance_management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     }
   }
 }

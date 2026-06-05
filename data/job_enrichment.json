@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-04T10:31:38.465452+00:00",
-    "total_jobs": 628,
-    "enriched": 497
+    "built_at": "2026-06-05T10:24:42.413375+00:00",
+    "total_jobs": 633,
+    "enriched": 500
   },
   "jobs": {
     "account-executive-ii-smarsh-84608340": {
@@ -5176,6 +5176,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-risk-manageme-grafanalabs-63967925": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-solutions-eng-grafanalabs-63967925": {
       "summary": "Enterprise Solutions Engineers partner with sales teams to educate customers on Grafana's value proposition, deliver technical presentations, and close high-velocity opportunities through advanced competitive knowledge and technical credibility.",
       "key_skills": [
@@ -5218,6 +5241,29 @@
         "observability"
       ],
       "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "strategic-cloud-part-grafanalabs-63967925": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -8937,6 +8983,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "staff-applied-scient-oneapp-50462700": {
+      "summary": "Designs and deploys machine learning and deep learning models to improve customer experience and business growth through personalization and recommendation systems.",
+      "key_skills": [
+        "machine learning",
+        "deep learning",
+        "llm",
+        "recommendation systems",
+        "search systems",
+        "productionizing models",
+        "ai",
+        "data science"
+      ],
+      "core_skills": [
+        "machine learning",
+        "deep learning",
+        "llm",
+        "recommendation systems"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "strategy-lead-oneapp-50462700": {
       "summary": "Strategy Lead at OnePay focuses on defining strategic direction, translating industry trends into product priorities, and building frameworks for decision-making in fast-paced fintech environment.",
       "key_skills": [
@@ -11069,8 +11138,8 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "logistics-manager-carvana-68442519": {
-      "summary": "Manages and optimizes Vehicle Transport operations while solving complex obstacles to ensure Carvana's used car purchase process promise.",
+    "logistics-manager-carvana-54854873": {
+      "summary": "Logistics Manager ensures vehicle transport operations are optimized and problem-solving barriers are removed daily to maintain Carvana's used car purchase process.",
       "key_skills": [
         "logistics",
         "problem-solving",
@@ -11081,30 +11150,32 @@
       ],
       "core_skills": [
         "logistics",
-        "problem-solving"
+        "problem-solving",
+        "operations",
+        "optimization"
       ],
       "seniority_signal": "mid",
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "logistics-manager--3-carvana-68442519": {
-      "summary": "Oversees day-to-day transportation operations, coordinates with site leaders, reviews route schedules, ensures safety standards, and manages warehouse inventory workflows.",
+    "logistics-manager--3-carvana-54854873": {
+      "summary": "Oversees day-to-day transportation operations needs at assigned locations, coordinates with site leaders, reviews route schedules, ensures safety standards, and manages warehouse inventory workflows.",
       "key_skills": [
         "logistics",
         "supply_chain",
         "transportation",
-        "inventory",
-        "warehouse",
-        "scheduling",
-        "route_planning",
-        "cdl"
+        "inventory_management",
+        "warehouse_operations",
+        "safety_compliance",
+        "route_scheduling",
+        "cdl_drivers"
       ],
       "core_skills": [
-        "leadership",
-        "safety_compliance",
-        "team_mentoring",
-        "performance_management"
+        "logistics",
+        "supply_chain",
+        "transportation",
+        "inventory_management"
       ],
       "seniority_signal": "mid",
       "role_type": "manager",

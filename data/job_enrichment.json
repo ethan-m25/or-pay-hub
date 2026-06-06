@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-05T10:24:42.413375+00:00",
-    "total_jobs": 633,
-    "enriched": 500
+    "built_at": "2026-06-06T10:23:19.314532+00:00",
+    "total_jobs": 635,
+    "enriched": 501
   },
   "jobs": {
     "account-executive-ii-smarsh-84608340": {
@@ -11138,7 +11138,7 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "logistics-manager-carvana-54854873": {
+    "logistics-manager-carvana-41219117": {
       "summary": "Logistics Manager ensures vehicle transport operations are optimized and problem-solving barriers are removed daily to maintain Carvana's used car purchase process.",
       "key_skills": [
         "logistics",
@@ -11159,7 +11159,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "logistics-manager--3-carvana-54854873": {
+    "logistics-manager--3-carvana-41219117": {
       "summary": "Oversees day-to-day transportation operations needs at assigned locations, coordinates with site leaders, reviews route schedules, ensures safety standards, and manages warehouse inventory workflows.",
       "key_skills": [
         "logistics",
@@ -11181,6 +11181,29 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "technical-support-sp-smarsh-41219117": {
+      "summary": "Technical Support Specialist provides world-class client support for Smarsh's Professional Archive SaaS software via phone, chat, and written communication, acting as a client liaison and advocate to resolve complex technical issues while ensuring SLAs and compliance.",
+      "key_skills": [
+        "technical support",
+        "client services",
+        "saaS",
+        "cyber security",
+        "problem solving",
+        "troubleshooting",
+        "root cause analysis",
+        "system analysis"
+      ],
+      "core_skills": [
+        "problem solving",
+        "troubleshooting",
+        "root cause analysis",
+        "system analysis"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     }
   }
 }

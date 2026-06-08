@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-07T10:22:09.129672+00:00",
-    "total_jobs": 635,
-    "enriched": 501
+    "built_at": "2026-06-08T10:37:12.127655+00:00",
+    "total_jobs": 646,
+    "enriched": 499
   },
   "jobs": {
     "account-executive-ii-smarsh-84608340": {
@@ -11160,50 +11160,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
-    },
-    "logistics-manager-carvana-27573900": {
-      "summary": "Logistics Manager ensures vehicle transport operations are optimized and problem-solving barriers are removed daily to maintain Carvana's used car purchase process.",
-      "key_skills": [
-        "logistics",
-        "problem-solving",
-        "operations",
-        "optimization",
-        "strategic",
-        "executive"
-      ],
-      "core_skills": [
-        "logistics",
-        "problem-solving",
-        "operations",
-        "optimization"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "logistics-manager--3-carvana-27573900": {
-      "summary": "Oversees day-to-day transportation operations needs at assigned locations, coordinates with site leaders, reviews route schedules, ensures safety standards, and manages warehouse inventory workflows.",
-      "key_skills": [
-        "logistics",
-        "supply_chain",
-        "transportation",
-        "inventory_management",
-        "warehouse_operations",
-        "safety_compliance",
-        "route_scheduling",
-        "cdl_drivers"
-      ],
-      "core_skills": [
-        "logistics",
-        "supply_chain",
-        "transportation",
-        "inventory_management"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
     }
   }
 }
